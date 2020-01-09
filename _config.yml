@@ -1,0 +1,116 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Electrochemistry Research and Teaching
+email: S.C.Perry@soton.ac.uk
+description: >- # this means to ignore newlines until "baseurl:"
+  Researcher in Electrochemistry at University of Southampton.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://perry-sc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: Perry__SC
+github_username:  Perry-SC
+
+# Build settings
+markdown: kramdown
+theme: minimal-mistakes-jekyll
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-twitter-plugin
+  - jekyll-include-cache
+  
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Reading Files
+include:
+  - _pages
+  - _posts
+
+author:
+  name     : "Samuel Perry <small>PhD FHEA</small>"
+  avatar   : "/images/bio_photo.jpg"
+  bio      : "Scientist and Educator Developing New CO<sub>2</sub> Reduction Technologies"
+  location : "University of Southampton"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Perry__SC"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate" 
+      url: "https://reserachgate.net/profile/Samuel_Perry"
+    - label: "Orcid"
+      icon: "fas fa-info-circle"
+      url: "https://orcid.org/0000-0002-6263-6114"
+    - label: "ResearcherID"
+      icon: "fas fa-spinner"
+      url: "https://reseracherid.com/rid/E-2858-2013"
+    - label: "Publons"
+      icon: "fas fa-parking"
+      url: "https://publons.com/a/1502097"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/PerrySC"
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      share: true
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/Perry__SC"
+    - label: "Research Gate"
+      icon: "fab fa-researchgate" 
+      url: "https://reserachgate.net/profile/Samuel_Perry"
+    - label: "Orcid"
+      icon: "fas fa-info-circle"
+      url: "https://orcid.org/0000-0002-6263-6114"
+    - label: "ResearcherID"
+      icon: "fas fa-spinner"
+      url: "https://reseracherid.com/rid/E-2858-2013"
+    - label: "Publons"
+      icon: "fas fa-parking"
+      url: "https://publons.com/a/1502097"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/PerrySC"
+
+repository: Perry-SC/Perry-SC.github.io
