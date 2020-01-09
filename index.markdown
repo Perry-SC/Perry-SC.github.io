@@ -108,9 +108,8 @@ header:
 	<p align="justify">As well as a number of research goals I have a great passion for teaching, both in the classroom and the lab environment. Outside of the lab I am a keen runner, rugby player and guitarist.</p>
   </div>
   <div class="column right">
-    <div class="jekyll-twitter-plugin" align="center">
-      <div class="jekyll-twitter-plugin"><a class="twitter-timeline" data-width="500" data-tweet-limit="5" href="https://twitter.com/Perry__SC?ref_src=twsrc%5Etfw">Tweets by Perry__SC</a>
-<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+    <div class='jekyll-twitter-plugin' align="center">
+      {% twitter https://twitter.com/Perry__SC maxwidth=500 limit=5 %}
     </div>
 <br clear="all" />
   </div>

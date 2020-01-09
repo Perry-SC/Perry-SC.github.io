@@ -24,8 +24,7 @@ github_username:  Perry-SC
 
 # Build settings
 markdown: kramdown
-#theme: minimal-mistakes-jekyll
-remote_theme: "mmistakes/minimal-mistakes@4.17.2"
+theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -115,3 +114,7 @@ footer:
       url: "https://linkedin.com/PerrySC"
 
 repository: Perry-SC/Perry-SC.github.io
+
+
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
