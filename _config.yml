@@ -24,7 +24,8 @@ github_username:  Perry-SC
 
 # Build settings
 markdown: kramdown
-theme: minimal-mistakes-jekyll
+#theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.17.2"
 plugins:
   - jekyll-feed
   - jekyll-gist
