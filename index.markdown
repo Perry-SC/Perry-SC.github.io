@@ -64,9 +64,7 @@ header:
 	This is a multi-faceted approach, relying on the expertise of our collaborators in a number of fields, including experimental chemistry, CO<sub>2</sub> capture and purification, and computer modelling.
 	By capturing CO<sub>2</sub> released from industry and converting it into useful ethylene, we hope to achieve the dual benefit of reduced CO<sub>2</sub> emissions and an environmentally friendly route to the synthesis of a useful chemical.<br>
 	<br>
-	Also active in a range of areas across electrochemistry and electrochemical engineering, leading research teams, driving innovating research and mentoring the next generation of scientists and educators.
-	<br>
-	Passionate about facilitating student-led learning, with a focus on innovative teaching methods, technology in learning and student wellbeing:</p>
+	Also active in a range of areas across electrochemistry and electrochemical engineering, leading research teams, driving innovating research and mentoring the next generation of scientists and educators. Passionate about facilitating student-led learning, with a focus on innovative teaching methods, technology in learning and student wellbeing:</p>
 	<div class="grid-container">
       <div class="grid-item">
 	    <div class="container">
