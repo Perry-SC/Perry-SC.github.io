@@ -109,7 +109,7 @@ Modifying the reaction environment
 Other popular reactor designs are built on the same concept of maximising the mass transport rate of CO<sub>2</sub> and circumventing the solubility issue. One such design that is worth mentioning is the trickle bed reactor. Here, the catalyst is loaded on a particulate material in a reactor. CO<sub>2</sub> gas and liquid electrolyte are introduced into the top of the reactor and allowed to trickle own by gravity. The electrolyte forms a thin film over the catalyst material, and so the CO<sub>2</sub> only gas to diffuse a short distance before being reduced at the electrode.<br>
 <br>
 
-<img align="center" src="/images/CO2/Reactor Schematics.png"><br clear="all">
+<img align="center" src="/images/CO2/reactor schematics.tif"><br clear="all">
 <i><b>Figure 4.</b> Schematic diagrams for a gas diffusion electrode and trickle bed reactor for CO<sub>2</sub> reduction to ethylene.</i>
 <br>
 
