@@ -57,7 +57,7 @@ Fundamentals of the reaction
 <p align="justify"> The reduction of CO<sub>2</sub> is strongly surface dependent. The initial step in the reaction is the adsorption of CO<sub>2</sub> onto the electrode surface. Once this bond has been formed, then the electron transfers may occur. The overall mechanism is still uncertain, but a number of possible routes have been proposed,<sup>11, 22-24</sup> which are shown in Figure 1.<br>
 <br>
 
-<img align="center" src="/images/CO2/mechanism.tif"><br clear="all">
+<img align="center" src="/images/CO2/mechanism.png"><br clear="all">
 <i><b>Figure 1.</b> Mechanism for the formation of ethylene via a number of intermediates.</i>
 <br clear="all">
 </p>
@@ -109,7 +109,7 @@ Modifying the reaction environment
 Other popular reactor designs are built on the same concept of maximising the mass transport rate of CO<sub>2</sub> and circumventing the solubility issue. One such design that is worth mentioning is the trickle bed reactor. Here, the catalyst is loaded on a particulate material in a reactor. CO<sub>2</sub> gas and liquid electrolyte are introduced into the top of the reactor and allowed to trickle own by gravity. The electrolyte forms a thin film over the catalyst material, and so the CO<sub>2</sub> only gas to diffuse a short distance before being reduced at the electrode.<br>
 <br>
 
-<img align="center" src="/images/CO2/reactor schematics.tif"><br clear="all">
+<img align="center" src="/images/CO2/reactor schematics.png"><br clear="all">
 <i><b>Figure 4.</b> Schematic diagrams for four different reactor architectures for CO<sub>2</sub> reduction to ethylene.</i>
 <br>
 
