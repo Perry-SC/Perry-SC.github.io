@@ -110,7 +110,7 @@ Other popular reactor designs are built on the same concept of maximising the ma
 <br>
 
 <img align="center" src="/images/CO2/reactor schematics.tif"><br clear="all">
-<i><b>Figure 4.</b> Schematic diagrams for a gas diffusion electrode and trickle bed reactor for CO<sub>2</sub> reduction to ethylene.</i>
+<i><b>Figure 4.</b> Schematic diagrams for four different reactor architectures for CO<sub>2</sub> reduction to ethylene.</i>
 <br>
 
 <br>
