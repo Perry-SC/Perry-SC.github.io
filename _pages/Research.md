@@ -5,9 +5,6 @@ permalink: /Research/
 classes: wide
 ---
 
-Research Themes
-====================
-
 <style>
 
 .grid-container {
@@ -24,6 +21,9 @@ Research Themes
 }
 
 </style>
+
+Research Themes
+====================
 
 <p align="justify">
 <div class="grid-container">

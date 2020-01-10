@@ -5,8 +5,7 @@ classes: wide
 permalink: /Publications/
 ---
 
-Publications
-===================
+
 
 <style>
 * {
@@ -43,6 +42,9 @@ Publications
   transform: translateY(-50%);
 }
 </style>
+
+Publications
+===================
 
 2019
 ====================

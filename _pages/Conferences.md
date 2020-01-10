@@ -5,9 +5,6 @@ permalink: /Conferences/
 classes: wide
 ---
 
-Conference History
-======================
-
 <style>
 * {
     box-sizing: border-box;
@@ -45,6 +42,10 @@ Conference History
 
 
 </style>
+
+
+Conference History
+======================
 
 2019
 ====================
