@@ -4,6 +4,7 @@ author_profile: true
 permalink: /CV/
 toc: true
 toc_label: Curriculum Vitae
+title: Curriculum Vitae
 ---
 
 Introduction
