@@ -8,5 +8,7 @@ main:
     url: /Conferences/
   - title: "CV"
     url: /CV/
+  - title: "Posts"
+    url: /blog/index.html   
   - title: "Contact"
     url: mailto:S.C.Perry@soton.ac.uk

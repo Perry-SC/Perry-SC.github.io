@@ -1,0 +1,17 @@
+---
+layout: single
+title:  "New Publication: Review into Hydrogen Peroxide Electrosynthesis"
+date:   2019-06-19
+categories: new publication
+comments: true
+share: true
+related: true
+---
+
+Very excited to announce the publication of my new review into the electrochemical synthesis of hydrogen peroxide from water and oxygen in Nature Reviews Chemistry. This was a long time coming, with a huge amount of literature to cover. I am very greatful for the input from all of my collaborating authors from University of Southampton, Fraunhofer IGB, and Technical University Munich.
+
+We summarise the greatest developments to date in this field, covering catalysts for the oxygen reduction reaction and water oxidation reaction. We also discuss the latest reactor designs, and how they are workin towards tackling the challenges associated with up-scaling to industrially relevant yields.
+
+Read more [here](https://www.nature.com/articles/s41570-019-0110-6)
+
+Perry, S.C.;* Pangotra, D.; Vieira, L.; Csepei, L.-I.; Sieber, V.; Wang, L.; Ponce de León, C.; Walsh, F.; Electrochemical Synthesis of Hydrogen Peroxide from Water and Oxygen; *Nat. Rev. Chem.*, **2019**, *3*, 442 - 458.
