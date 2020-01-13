@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: Electrogenerated Chemiluminescence in a Cuvette"
+date:   2017-02-02
+categories: new publication
+---
+
+Delighted to announce the publication of our new paper from the Mauzeroll group in ChemElectroChem. Here, we show a new electrogenerated chemiluminescence (ECL) design where the entire cell is contained within a standard quartz cuvette.
+
+Through careful experimental design with simulated verification, we show how a custom cell can be built around a simple glass cuvette. The cuvette is already optimised for spectroscopic data collection, and so our modifications for electrochemical data provide a simple means to provide high precision ECL information.
+
+![Danis et al, *ChemElectroChem*, **2017**, *4*, 1736](/images_posts/2017-02-02/ECL.png)
+
+Read more [here](https://doi.org/10.1002/celc.201600879)
+
+Danis, A. S.; Odette, W.; Perry, S. C.; Canesi, S; Sleiman, H.; Mauzeroll, J.; Cuvette-Based Electrogenerated Chemiluminescence Detection System for the Assessment of Polymerizable Ruthenium Luminophores; *ChemElectroChem*, **2017**, *4*, 1736

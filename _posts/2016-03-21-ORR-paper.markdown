@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: Relating Pre-Adsorbed Oxygen to Metal Binding Energy"
+date:   2016-03-21
+categories: new publication
+---
+
+Delighted to announce the publication of our new paper from the Denuault group in Phys. Chem. Chem. Phys. Here, we related the quantity of pre-adsorbed oxygen on a metal surface to the binding energy of that metal to oxygen. 
+
+Though a specially designed cleaning and analysis potential waveform, we are able to detect the pre-adsorption of oxygen species at a microelectrode. Repeating at various metals shows a volcano-type relationship, similar to those often shown in computational studies to predict catalyst activity. In this way, we show a new descriptor for oxygen reduction catalyst activity based on experimental data, without computationally expensive requirements.
+
+![Perry et al, *PhysChemChemPhys*, **2016**, *18*, 10218](/images_posts/2016-03-21/ORR.png)
+
+Read more [here](https://doi.org/10.1039/C6CP00106H)
+
+Perry, S. C.; Denuault, G. D.; The oxygen reduction reaction (ORR) on reduced metals: evidence for a unique relationship between the coverage of adsorbed oxygen species and adsorption energy; *Phys. Chem. Chem. Phys.*, **2016**, *18*, 10218 - 10223

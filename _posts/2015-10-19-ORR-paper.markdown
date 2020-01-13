@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: Detecting Pre-adsorbed Oxygen During Oxygen Reduction"
+date:   2015-10-19
+categories: new publication
+---
+
+Excited to announce the publication of our new paper from the Denuault group in Phys. Chem. Chem. Phys. Here, we provide evidence for the pre-adsorption of dissolved oxygen onto platinum electrodes before the oxygen reduction reaction (ORR) is driven by negative potentials. 
+
+Though a specially designed cleaning and analysis potential waveform, we are able to differentiate the pre-adsorption of oxygen species at a platinum microelectrode from background charging processes and platinum oxidation. The quantity of pre-adsorbed oxygen is time dependent at short times until a partial monolayer is achieved, and appears related to the binding energy of the metal towards oxygen.
+
+![Perry et al, *PhysChemChemPhys*, **2015**, *17*, 30005](/images_posts/2015-10-19/ORR.png)
+
+Read more [here](https://doi.org/10.1039/C5CP04667J)
+
+Perry, S. C.; Denuault, G. D.; Transient Study of the Oxygen Reduction Reaction on Reduced Pt and Pt Metal Alloy Microelectrodes: Evidence for the Reduction of Pre-adsorbed Oxygen Species Linked to Dissolved Oxygen; *Phys. Chem. Chem. Phys.*, **2015**, *17*, 30005 - 30012

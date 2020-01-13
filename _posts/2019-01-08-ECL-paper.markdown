@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: A New Set-up for Electrogenerated Chemiluminescence"
+date:   2019-01-08
+categories: new publication
+---
+
+Delighted to announce the publication of our new paper from the Mauzeroll group in Analytical Chemistry. Here, we show a new way to study electrogenerated chemiluminescence, by hyphenating a potentiostat with a spectrometer.
+
+By combining these two instruments, we are able to simultaneously record electrochemical and spectroscopic information on the same time axis. This is important for the study from electrogenerated chemiluminescence. The mechanism is highly complicated with multiple overlapping reaction steps, and so linking both data sets to the same time axis is vital in resolving the mechanism.
+
+![Danis et al. *Anal. Chem.*, **2019**, *91*, 2312 - 2318](/images_posts/2019-01-08/ECL.png)
+
+Read more [here](https://doi.org/10.1021/acs.analchem.8b04960)
+
+Danis, A.; Gordon, J. Potts, K. Stephens, L. Perry, S. C.; Mauzeroll, J; Simultaneous Electrochemical and Emission Monitoring of Electrogenerated Chemiluminescence through Instrument Hyphenation; *Anal. Chem.*, **2019**, *91*, 2312

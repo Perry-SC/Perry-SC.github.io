@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: Sampled Current Voltammetry at Microelectrodes"
+date:   2014-09-01
+categories: new publication
+---
+
+Happy to announce the publication of our new paper from the Denuault group in Analytical Chemistry. Here, we describe a new voltammetry technique - Sampled Current Voltammetry at Microelectrodes (MSCV)
+
+Here, data are collected by performing a series of separate potential step experiments along a potential range of interests. By sampling the recorded current transients at the same time, a MSCV can be constructed. Alongside this technique, we give a new kinetic model that allows the user to simply extract kinetic information from MSCVs based on the slope of the MSCV wave. 
+
+![Perry et al, *Anal. Chem.*, **2014**, *86*, 9917](/images_posts/2014-09-01/MSCV.png)
+
+Read more [here](https://doi.org/10.1021/ac502645e)
+
+Perry, S. C.; Al Shandoudi, L. M.; Denuault, G. D.; Sampled Current Voltammetry at Microdisk Electrodes: Kinetic Information from Pseudo-Steady State Voltammograms; *Anal. Chem.*, **2014**, *86*, 9917 - 9923

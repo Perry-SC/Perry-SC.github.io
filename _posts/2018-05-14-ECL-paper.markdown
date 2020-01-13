@@ -1,0 +1,16 @@
+---
+layout: single
+title:  "New Publication: Insights into the Electrogenerated Chemiluminescence Mechanism"
+date:   2018-05-14
+categories: new publication
+---
+
+Pleased to announce the publication of our new paper from the Mauzeroll group in Analytical Chemistry. Here, we show a combined experimental and digital analysis of a key electrogenerated chemiluminescence (ECL) system to provide new insights into the complicated reaction mechanism.
+
+By hyphenating a potentiostat with a spectrometer we are able to record electrochemical and spectroscopic information on the same time axis. Combining this with finite element simulations reveals that one specific reaction step must be significantly faster than the others in order to explain the relative peak heights and positions.
+
+![Danis et al, *Anal. Chem.*, **2018**, *90*, 7377](/images_posts/2018-07-27/biosensor.png)
+
+Read more [here](https://doi.org/10.1021/acs.analchem.8b00773)
+
+Danis, A.; Potts, K.; Perry, S. C.; Mauzeroll, J.; Combined Spectroelectrochemical and Simulated Insights into the Electrogenerated Chemiluminescence Coreactant Mechanism; *Anal. Chem.*, **2018**, *90*, 7377
