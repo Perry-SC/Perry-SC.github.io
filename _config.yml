@@ -126,4 +126,4 @@ paginate_path: /page:num/
 comments:
     provider: "disqus"
     disqus:
-        shortname: "Perry__SC"
+        shortname: "https-perry-sc-github-io"
