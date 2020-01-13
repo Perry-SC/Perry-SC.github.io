@@ -61,19 +61,19 @@ author:
       url: "https://twitter.com/Perry__SC"
     - label: "Research Gate"
       icon: "fab fa-researchgate" 
-      url: "https://reserachgate.net/profile/Samuel_Perry"
+      url: "https://researchgate.net/profile/Samuel_Perry"
     - label: "Orcid"
       icon: "fas fa-info-circle"
       url: "https://orcid.org/0000-0002-6263-6114"
     - label: "ResearcherID"
       icon: "fas fa-spinner"
-      url: "https://reseracherid.com/rid/E-2858-2013"
+      url: "https://researcherid.com/rid/E-2858-2013"
     - label: "Publons"
       icon: "fas fa-parking"
       url: "https://publons.com/a/1502097"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "https://linkedin.com/PerrySC"
+      url: "https://linkedin.com//in/perrysc"
 # Defaults
 defaults:
   # _posts
@@ -83,7 +83,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       share: true
       comments: true
       related: true
