@@ -122,3 +122,8 @@ repository: Perry-SC/Perry-SC.github.io
 
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
+
+comments:
+    provider: "disqus"
+    disqus:
+        shortname: "Perry__SC"
