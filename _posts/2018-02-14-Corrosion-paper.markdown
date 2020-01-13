@@ -3,10 +3,10 @@ layout: single
 title:  "New Publication: Localised Corrosion of Stainless Steels"
 date:   2018-02-14
 categories: 
-	- new publication
-	- corrosion
-	- SECM
-	- simulation
+  - new publication
+  - corrosion
+  - SECM
+  - simulation
 ---
 
 Delighted to announce the publication of our new paper from the Mauzeroll group in Nature Materials Degradation. Here, we use scanning electrochemical microscopy (SECM) to reveal titanium-rich inclusions in the surface of stainless steels, and reveal their role in corrosion processes.

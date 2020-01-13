@@ -3,10 +3,10 @@ layout: single
 title:  "New Publication: Enhancing Enzymatic Biosensors"
 date:   2018-07-27
 categories: 
-	- new publication
-	- biosensors
-	- H2O2
-	- microelectrodes
+  - new publication
+  - biosensors
+  - H2O2
+  - microelectrodes
 ---
 
 Excited to announce the publication of our new paper from the Mauzeroll group in The Journal of the Electrochemical Society focus issue on the Brain and Electrochemistry, honouring R. Mark Whiteman and Christian Amatore. Here, we show a quick and highly effective means of enhancing the sensitivity of enzymatic biosensors through electrode surface modifications.

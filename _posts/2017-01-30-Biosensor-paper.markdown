@@ -3,11 +3,11 @@ layout: single
 title:  "New Publication: Localised Detection with an Enzymatic Biosensor"
 date:   2017-01-30
 categories: 
-	- new publication
-	- biosensor
-	- H2O2
-	- SECM
-	- microelectrodes
+  - new publication
+  - biosensor
+  - H2O2
+  - SECM
+  - microelectrodes
 ---
 
 Delighted to announce the publication of our new paper from the Mauzeroll group in ChemElectroChem. Here, we combine enzymatic biosensors with scanning electrochemical microscopy (SECM) in order to provide localised detection.

@@ -3,9 +3,9 @@ layout: single
 title:  "New Publication: A New Set-up for Electrogenerated Chemiluminescence"
 date:   2019-01-08
 categories: 
-	- new publication
-	- ECL
-	- simulation
+  - new publication
+  - ECL
+  - simulation
 ---
 
 Delighted to announce the publication of our new paper from the Mauzeroll group in Analytical Chemistry. Here, we show a new way to study electrogenerated chemiluminescence, by hyphenating a potentiostat with a spectrometer.

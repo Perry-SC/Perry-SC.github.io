@@ -3,9 +3,9 @@ layout: single
 title:  "New Publication: Digital Simulation of Corrosion Voltammetry"
 date:   2017-07-14
 categories: 
-	- new publication
-	- corrosion
-	- simulation
+  - new publication
+  - corrosion
+  - simulation
 ---
 
 Happy to announce the publication of our new paper from the Mauzeroll group in The Journal of the Electrochemical Society for the focus issue on Mathematical Modeling of Electrochemical Systems at Multiple Scales in honour of John Newman. Here, we describe a new finite element simulation model for predicting the shape of polarization curves for a number of corroding metals.

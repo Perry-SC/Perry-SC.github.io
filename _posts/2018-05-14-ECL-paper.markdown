@@ -3,10 +3,10 @@ layout: single
 title:  "New Publication: Insights into the Electrogenerated Chemiluminescence Mechanism"
 date:   2018-05-14
 categories: 
-	- new publication
-	- ECL
-	- simulation
-	- kinetics
+  - new publication
+  - ECL
+  - simulation
+  - kinetics
 ---
 
 Pleased to announce the publication of our new paper from the Mauzeroll group in Analytical Chemistry. Here, we show a combined experimental and digital analysis of a key electrogenerated chemiluminescence (ECL) system to provide new insights into the complicated reaction mechanism.

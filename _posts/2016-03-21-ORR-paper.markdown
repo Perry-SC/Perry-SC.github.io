@@ -3,10 +3,10 @@ layout: single
 title:  "New Publication: Relating Pre-Adsorbed Oxygen to Metal Binding Energy"
 date:   2016-03-21
 categories: 
-	- new publication
-	- ORR
-	- microelectrodes
-	- pre-adsorbed oxygen
+  - new publication
+  - ORR
+  - microelectrodes
+  - pre-adsorbed oxygen
 ---
 
 Delighted to announce the publication of our new paper from the Denuault group in Phys. Chem. Chem. Phys. Here, we related the quantity of pre-adsorbed oxygen on a metal surface to the binding energy of that metal to oxygen. 

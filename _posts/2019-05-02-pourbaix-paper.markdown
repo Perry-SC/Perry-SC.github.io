@@ -3,9 +3,9 @@ layout: single
 title:  "New Publication: Pourbaix Diagrams for Corrosion Simulation"
 date:   2019-05-02
 categories: 
-	- new publication
-	- corrosion
-	- simulation
+  - new publication
+  - corrosion
+  - simulation
 ---
 
 Pleased to announce the publication of our new paper  from the Mauzeroll group in the Journal of the Electrochemical Society. Here, we show a simple new way to build finite elements simulations for corrosion reactions using Pourbaix diagrams.

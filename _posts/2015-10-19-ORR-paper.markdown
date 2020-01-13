@@ -3,10 +3,10 @@ layout: single
 title:  "New Publication: Detecting Pre-adsorbed Oxygen During Oxygen Reduction"
 date:   2015-10-19
 categories: 
-	- new publication
-	- ORR
-	- microelectrodes
-	- pre-adsorbed oxygen
+  - new publication
+  - ORR
+  - microelectrodes
+  - pre-adsorbed oxygen
 ---
 
 Excited to announce the publication of our new paper from the Denuault group in Phys. Chem. Chem. Phys. Here, we provide evidence for the pre-adsorption of dissolved oxygen onto platinum electrodes before the oxygen reduction reaction (ORR) is driven by negative potentials. 
