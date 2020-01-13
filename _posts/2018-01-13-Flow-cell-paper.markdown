@@ -2,7 +2,11 @@
 layout: single
 title:  "New Publication: New Flow Cell with Microelectrode Technology"
 date:   2018-01-13
-categories: new publication
+categories: 
+	- new publication
+	- flow cell
+	- simulation
+	- microelectrodes
 ---
 
 Excited to announce the publication of our new paper from the Mauzeroll group in The Journal of the Electrochemical Society. Here, we combine flow cell technologies with the benefit of microelectrodes to give access to new electrochemical information.

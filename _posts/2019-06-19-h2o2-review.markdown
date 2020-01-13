@@ -2,7 +2,12 @@
 layout: single
 title:  "New Publication: Review into Hydrogen Peroxide Electrosynthesis"
 date:   2019-06-19
-categories: new publication
+categories: 
+	- new publication
+	- H2O2
+	- Review
+	- ORR
+	- WOR
 ---
 
 Very excited to announce the publication of my new review into the electrochemical synthesis of hydrogen peroxide from water and oxygen in Nature Reviews Chemistry. This was a long time coming, with a huge amount of literature to cover. I am very greatful for the input from all of my collaborating authors from University of Southampton, Fraunhofer IGB, and Technical University Munich.

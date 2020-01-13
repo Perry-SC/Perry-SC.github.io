@@ -2,7 +2,10 @@
 layout: single
 title:  "New Publication: Electrogenerated Chemiluminescence in a Cuvette"
 date:   2017-02-02
-categories: new publication
+categories: 
+	- new publication
+	- ECL
+	- simulation
 ---
 
 Delighted to announce the publication of our new paper from the Mauzeroll group in ChemElectroChem. Here, we show a new electrogenerated chemiluminescence (ECL) design where the entire cell is contained within a standard quartz cuvette.
