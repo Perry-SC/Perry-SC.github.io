@@ -18,3 +18,7 @@ The new cell design integrates eight microelectrodes, which push through the cel
 Read more [here](https://doi.org/10.1149/2.0641802jes)
 
 Noyhouzer, T.; Perry, S. C.; Vicente-Luis, A.; Hayes, P.; Mauzeroll, J.; The Best of Both Worlds: Combining Ultramicroelectrode and Flow Cell Technologies; *J. Electrochem. Soc.*, **2018**, *165*, H10 - H15
+
+### Abstract
+
+A new type of an electrochemical flow cell designed for exchangeable ultramicroelectrodes (UMEs) is presented. The cell could be used with up to 8 different UMEs allowing one to use this cell for UME array measurements. The cell was characterized using both empirical data and finite element modeling. Au and Pt UMEs were used to detect catechol simultaneously, demonstrating the ability of this cell to be used as a sensory platform. The electroanalytical response of flow system was validated by direct measurements of H<sub>2</sub>O<sub>2</sub> concentrations. Finally, stochastic nanoparticle measurements were successfully performed using the flow system, highlighting the future possibilities of this system for environmental monitoring.

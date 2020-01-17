@@ -19,3 +19,7 @@ Using the equations of the lines of a Pourbaix diagram therefore allows us to ra
 Read more [here](https://doi.org/:10.1149/2.0111911jes)
 
 Perry, S.C.; Gateman, S.; Stephens, L.; Lacasse, R.; Schulz, R.; Mauzeroll, J.;; Pourbaix Diagrams as a Simple Route to First Principles Corrosion Simulation; *J. Electrochem. Soc.*, **2019**, *166*, C3186 - C3192.
+
+### Abstract
+
+Simulation of corrosion reactions has become an important tool in the analysis of novel materials for corrosion resistant materials and applications. A number of analytical, boundary element and finite element methods currently exist in the literature, which use experimental corrosion parameters as model inputs for the extraction of simulated polarization curves, oxide growth rates, and other corrosion behaviors. Here, we propose the combination of finite element simulation with thermodynamic data from Pourbaix diagrams to allow for the simulation of metal corrosion, where individual corrosion reactions can be monitored at the metal surface.

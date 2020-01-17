@@ -19,3 +19,7 @@ The microelectrode design gives a biosensor tip around 100 micron in diameter. P
 Read more [here](https://doi.org/10.1002/celc.201600766)
 
 Polcari, D.; Perry, S. C.; Pollegioni, L.; Geissler, M.; Mauzeroll, J.; Localized Detection of ᴅ-Serine by using an Enzymatic Amperometric Biosensor and Scanning Electrochemical Microscopy; *ChemElectroChem*, **2017**, *4*, 920 - 926
+
+### Abstract
+
+D-Serine acts as an endogenous co‐agonist for *N*-methyl-D-aspartate receptors at synapses, making it essential for proper brain development and function. This amino acid has also been linked to several neurodegenerative diseases such as Alzheimer's disease and dementia. Nevertheless, the primary site and mechanism of D-serine release remains unclear. We recently demonstrated the use of an enzymatic amperometric biosensor for the in-vivo quantification of endogenous D-serine release in *Xenopus laevis* tadpoles. Herein, we investigate the effect of the permselective poly(*meta*-phenylenediamine) electropolymerization conditions on the biosensor's response time and selectivity. Scanning electrochemical microscopy (SECM) is then used with the optimized biosensor to measure localized release of D-serine from a model system. This SECM methodology, which provides high spatial and temporal resolution, could be useful to investigate the primary site and mechanism of D-serine release in other biological samples.

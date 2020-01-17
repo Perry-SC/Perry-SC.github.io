@@ -17,3 +17,7 @@ Through careful experimental design with simulated verification, we show how a c
 Read more [here](https://doi.org/10.1002/celc.201600879)
 
 Danis, A. S.; Odette, W.; Perry, S. C.; Canesi, S; Sleiman, H.; Mauzeroll, J.; Cuvette-Based Electrogenerated Chemiluminescence Detection System for the Assessment of Polymerizable Ruthenium Luminophores; *ChemElectroChem*, **2017**, *4*, 1736
+
+### Abstract
+
+Herein, we validate a novel cuvette-based approach to measure electrogenerated chemiluminescence (ECL) by employing the hyphenation of a commercial spectrometer and a potentiostat. The new experimental design provides simultaneous acquisition of electrochemical and ECL data, allowing complementary analysis by both techniques. Preliminary analysis of an organometallic ECL standard, tris(2,2′-bipyridine)ruthenium(II) (Ru(bpy)<sub>3</sub><sup>2+</sup>), and tripropylamine (TPA), showed excellent reproducibility both in terms of the electrochemistry and the ECL signal. Equally as important, the acquired electrochemistry and ECL from the Ru(bpy)<sub>3</sub><sup>2+</sup>/TPA system served as a baseline for evaluating the ECL response of polymerizable ruthenium luminophores.
