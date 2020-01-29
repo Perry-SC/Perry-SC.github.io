@@ -13,7 +13,7 @@ Delighted to announce the publication of my new paper on the use of Polymers wit
 
 We use a stepwise approach to add varying thicknesses of polymer layer to copper catalysts on gas diffusion electrodes. We show that the PIMs are able to enhance the activity and selectivity of the catalysts, but also have a negative impact on the hydrophobicity of the gas diffusion electrode. By selecting a compromise PIMs loading, we are able to increase the overall activity and selectivity of the copper gas diffusion electrodes for CO<sub>2</sub> reduction specifically to ethylene.
 
-![Perry et al. *Chemosphere*, **2020**, *248*, 125993](/images_posts/2020-01-29/Graphical-Abstract.png)
+![Perry et al. *Chemosphere*, **2020**, *248*, 125993](/images_posts/2019-06-19/Graphical-Abstract.png)
 
 Read more [here](https://authors.elsevier.com/a/1aU3rAOM9t3yV)
 
