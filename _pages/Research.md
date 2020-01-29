@@ -5,6 +5,9 @@ permalink: /Research/
 classes: wide
 ---
 
+Research Themes
+====================
+
 <style>
 
 .grid-container {
@@ -21,9 +24,6 @@ classes: wide
 }
 
 </style>
-
-Research Themes
-====================
 
 <p align="justify">
 <div class="grid-container">
@@ -47,7 +47,7 @@ Research Themes
   </div>-->
   <div class="grid-item">
 	<div class="container">
-	  <p><a href="/Research/Carbon_Dioxide_Reduction"><img src="/images/publications/CO2EXIDE.jpg" alt="Carbon Dioxide Reduction"></a></p>
+	  <p><a href="/Research/Carbon_Dioxide_Reduction"><img src="/images_posts/2020-01-29/Graphical-Abstract.png" alt="Carbon Dioxide Reduction"></a></p>
 	  <div class="centered">Carbon Dioxide Reduction</div>
 	</div>
   </div>
