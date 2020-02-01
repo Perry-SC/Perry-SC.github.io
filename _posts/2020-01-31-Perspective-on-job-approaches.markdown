@@ -23,9 +23,11 @@ I should add at this point, some of this post may seem like common sense. Howeve
 
 *Dear Professor...*
 
-Possibly the worst start to an email that I could receive outside of actual profanity. Such a generic introduction. Now, I'm pretty sure from the start that this email was not only sent to me. Best-case scenario I have received a copy-pasted message with little thought about me involved. I might even be BCC'd in with a hundred other researchers, with the view that "any of these will do". If you want a reply to your email, at least take the time to find out my name! 
+Already not a great start. Such a generic introduction. Now, I'm pretty sure from the start that this email was not only sent to me. Best-case scenario I have received a copy-pasted message with little thought about me involved. I might even be BCC'd in with a hundred other researchers, with the view that "any of these will do". If you want a reply to your email, at least take the time to find out my name! 
 
 Even worse, a quick google would show that I'm not even a professor yet... thanks for rubbing it in!
+
+*EDIT:* An interesting point was raised on Twitter about the impact of cultural language differences on this introduction. Dear Professor can be meant as a term of respect for communications from international students. On its own, perhaps this start could be accepted, but combined with the points that follow regarding tailoring your communication to the receiver, it leads to a diminished opinion of the message. It's also worth mentioning that every email I've received from predatory journals or conferences had started with "Dear Dr" or Dear Prof", and that isn't particularly good company to keep.
 
 <img src="/images_posts/2020-01-31/Laptop.png" width="30%"/>
 <figcaption>Generic openings such as "Dear Sir/Madam" or "To whom it may concern" are far less likely to be answered than addressed messages. Image credit: clipart-library.com</figcaption>
