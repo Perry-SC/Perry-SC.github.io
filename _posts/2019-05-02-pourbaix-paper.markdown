@@ -16,7 +16,7 @@ Using the equations of the lines of a Pourbaix diagram therefore allows us to ra
 
 ![Perry et al. *J. Electrochem. Soc.*, **2019**, *166*, C3186 - C3192](/images_posts/2019-05-02/Pourbaix.png)
 
-Read more [here](https://doi.org/:10.1149/2.0111911jes)
+Read more [here](https://doi.org/10.1149/2.0111911jes)
 
 Perry, S.C.; Gateman, S.; Stephens, L.; Lacasse, R.; Schulz, R.; Mauzeroll, J.;; Pourbaix Diagrams as a Simple Route to First Principles Corrosion Simulation; *J. Electrochem. Soc.*, **2019**, *166*, C3186 - C3192.
 
