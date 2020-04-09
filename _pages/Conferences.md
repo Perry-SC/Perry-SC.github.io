@@ -5,6 +5,9 @@ permalink: /Conferences/
 classes: wide
 ---
 
+Conference History
+======================
+
 <style>
 * {
     box-sizing: border-box;
@@ -43,10 +46,6 @@ classes: wide
 
 </style>
 
-
-Conference History
-======================
-
 2019
 ====================
 
@@ -59,7 +58,7 @@ Conference History
     </div>
   </div>
   <div class="column right">
-    <p>Polymers with Intrinsic Microporosity (PIMs) for Carbon Dioxide Reduction at Gas Diffusion Electrodes<br>
+    <p>Reduction of Carbon Dioxide to Ethylene using an Additively Manufactured Stacked Cell<br>
 
 K. Ball*, C. Tacon, S. Reeve, S. C. Perry, C. Ponce de Leon<br>
 
@@ -80,7 +79,7 @@ K. Ball*, C. Tacon, S. Reeve, S. C. Perry, C. Ponce de Leon<br>
 <div class="row">
   <div class="column left">
     <div class="vertical-center">
-      <img align="left" width="250" src="/images/publications/2019GDECell.jpg">
+      <img align="left" width="250" src="/images_posts/2020-01-29/Graphical-Abstract.png">
     </div>
   </div>
   <div class="column right">
