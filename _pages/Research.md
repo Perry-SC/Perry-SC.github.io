@@ -6,7 +6,6 @@ classes: wide
 ---
 
 <p>
-Test 2
 </p>
 
 Research Themes
