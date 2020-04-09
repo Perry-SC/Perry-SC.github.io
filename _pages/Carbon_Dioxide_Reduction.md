@@ -106,14 +106,14 @@ In most cases it is hard to predict exactly how a certain microstructure would a
 Tailoring the triphasic envrionment
 --------------------------------------
 
-<p align="justify> The reduction of CO<sub>2</sub> involves gasous CO<sub>2</sub> reacting with a liquid electrolyte at a solid catalyst surface: a so called "triphasic interface". The oxygen reduction reaction community have recently employed Polymers with Intrinsic Microporosity (PIMs) to this effect, trapping CO<sub>2</sub> close to the electrode surface to drive the full four-electron reduction.<sup>31</sup> (More details on four-electron oxygen reduction available <a href="/Research/Oxygen_Reduction">here</a>).<br>
-<br>
-We recently demonstrated that the same technique could be applied to CO<sub>2</sub> reduction, where the PIMs traps CO<sub>2</sub> within the triphasic interface, favouring the full twelve-electron reduction to ethylene. Any CO formed by two-electron CO<sub>2</sub> reduction is also trapped at the electrode surface, favouring further electron transfers to increase the ethylene yield.<sup>32</sup> <br>
+<p align="justify> The reduction of CO<sub>2</sub> involves gasous CO<sub>2</sub> reacting with a liquid electrolyte at a solid catalyst surface: a so called "triphasic interface". The oxygen reduction reaction community have recently employed Polymers with Intrinsic Microporosity (PIMs) to this effect, trapping CO<sub>2</sub> close to the electrode surface to drive the full four-electron reduction.<sup>31</sup> (More details on four-electron oxygen reduction available <a href="/Research/Oxygen_Reduction">here</a>).We recently demonstrated that the same technique could be applied to CO<sub>2</sub> reduction, where the PIMs traps CO<sub>2</sub> within the triphasic interface, favouring the full twelve-electron reduction to ethylene. Any CO formed by two-electron CO<sub>2</sub> reduction is also trapped at the electrode surface, favouring further electron transfers to increase the ethylene yield.<sup>32</sup> <br>
 <br>
 
 <img align="center" src="/images_posts/2020-01-29/Graphical-Abstract.png" id="responsive-image"><br clear="all">
 <i><b>Figure 4.</b> Graphical absract for the impact of Polymers with Intrinsic Microporosity (PIMs) on CO<sub>2</sub> reduction. CO<sub>2</sub> is trapped in a triphasic interface at the electrode surface, favouring multiple electron transfers to give a greater ethylene yield.</i>
 <br>
+
+</p>
 
 Modifying the reaction environment
 -----------------------------------
