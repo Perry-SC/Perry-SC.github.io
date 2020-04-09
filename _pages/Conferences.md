@@ -49,6 +49,33 @@ Conference History
 
 </style>
 
+2020
+=========================
+
+<body>
+
+<div class="row">
+  <div class="column left">
+    <div class="vertical-center">
+      <img align="left" width="250" src="/images/CO2/CO2-reactor.png">
+    </div>
+  </div>
+  <div class="column right">
+    <p>Green Electrochemical Synthesis of Ethylene Oxide from CO<sub>2</sub><br>
+
+S. C. Perry, S. M. Gateman, S. Mavrikis, R. Malpass-Evans, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, P.-K. Leung, L. Wang, C. Ponce de Leon<br>
+
+STEM for Britain, London, UK.<br>
+
+<a href="https://www.researchgate.net/publication/339000717_Green_Electrochemical_Synthesis_of_Ethylene_Oxide_from_CO2" target="_blank" class="MyButton">Direct Link</a> 
+
+<br clear="all" /></p>
+  </div>
+</div>
+
+</body>
+
+
 2019
 ====================
 
@@ -82,7 +109,7 @@ K. Ball*, C. Tacon, S. Reeve, S. C. Perry, C. Ponce de Leon<br>
 <div class="row">
   <div class="column left">
     <div class="vertical-center">
-      <img align="left" width="250" src="/images_posts/2020-01-29/Graphical-Abstract.png">
+      <img align="left" width="250" src="/images/publications/2020Chemosphere.png">
     </div>
   </div>
   <div class="column right">
@@ -92,7 +119,7 @@ S. C. Perry*, S. M. Gateman, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, 
 
 Electrochem 2019, Glasgow, UK. <br>
 
-<a href="https://www.strath.ac.uk/engineering/chemicalprocessengineering/electrochem2019/" target="_blank" class="MyButton">Direct Link</a> 
+<a href="https://www.researchgate.net/publication/340478696_Polymers_with_Intrinsic_Microporosity_PIMs_for_Carbon_Dioxide_Reduction_at_Gas_Diffusion_Electrodes" target="_blank" class="MyButton">Direct Link</a> 
 
 <br clear="all" /></p>
   </div>
