@@ -29,17 +29,16 @@ Research Themes
 </style>
 
 <p align="justify">
+
 <div class="grid-container">
   <div class="grid-item">
 	<div class="container">
-	  <p><a href="/Research/Electrochemical_Sensing"><img src="/images/publications/2018JES_SQ.png" alt="Electrochemical Sensing" style="width:400px;"></a></p>
-	  <div class="centered">Electrochemical Sensing</div>
+	  <p><img src="/images/publications/2018JES_SQ.png" style="width:400px" onmouseover="this.src='/images/publications/2018JES_SQ_background.png';" onmouseout="this.src='/images/publications/2018JES_SQ.png';" /></p>
 	</div>
   </div>
   <div class="grid-item">
 	<div class="container">
-	  <p><a href="/Research/Scanning_Electrochemical_Microscopy"><img src="/images/publications/2017CHEMECHEM.jpg" alt="Scanning Electrochemical Microscopy" style="width:400px;"></a></p>
-	  <div class="centered">Scanning Electrochemical Microscopy</div>
+	  <p><img src="/images/publications/2017CHEMECHEM.jpg" style="width:400px" onmouseover="this.src='/images/publications/2017CHEMECHEM_background.jpg';" onmouseout="this.src='/images/publications/2017CHEMECHEM.jpg';" /></p>
 	</div>
   </div>
   <!--<div class="grid-item">
@@ -50,14 +49,12 @@ Research Themes
   </div>-->
   <div class="grid-item">
 	<div class="container">
-	  <p><a href="/Research/Carbon_Dioxide_Reduction"><img src="/images_posts/2020-01-29/Graphical-Abstract.png" alt="Carbon Dioxide Reduction"></a></p>
-	  <div class="centered">Carbon Dioxide Reduction</div>
+	  <p><img src="/images/publications/2020Chemosphere.png" style="width:400px" onmouseover="this.src='/images/publications/2020Chemosphere_background.png';" onmouseout="this.src='/images/publications/2020Chemosphere.png';" /></p>
 	</div>
   </div>
   <div class="grid-item">
 	<div class="container">
-	  <p><a href="/Research/Oxygen_Reduction"><img src="/images/publications/2016PHYSCHEMCHEMPHYS_SQ.png" alt="Oxygen Reduction" ></a></p>
-	  <div class="centered">Oxygen Reduction</div>
+	  <p><img src="/images/publications/2016PHYSCHEMCHEMPHYS_SQ.png" style="width:400px" onmouseover="this.src='/images/publications/2016PHYSCHEMCHEMPHYS_SQ_background.png';" onmouseout="this.src='/images/publications/2016PHYSCHEMCHEMPHYS_SQ.png';" /></p>
 	</div>
   </div>
   <!--<div class="grid-item">
