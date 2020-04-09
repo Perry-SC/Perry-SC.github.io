@@ -66,7 +66,7 @@ The myth that you have to work 80 hours a week is really well embedded in academ
 
 Turns out there was a lot of support for the post, including from the University Dean (and she got tenure so a happy ending all around!). The end message is that if you aren’t expected to work crazy hours at the office, then you aren’t expected to work crazy hours at home. Sometimes the realisation that you don’t have to behave a certain way is surprisingly motivating! 
 
-<img src="/images_posts/2020-04-09/blog.png" width="100%"/>
+<img src="/images_posts/2020-04-09/Blog.png" width="100%"/>
 <figcaption>I would encourage everyone to read this excellent blog post, including some very insightful comments posted with it. Check it out <a href="https://dynamicecology.wordpress.com/2014/02/04/you-do-not-need-to-work-80-hours-a-week-to-succeed-in-academia">here</a></figcaption>
 
 ### Schedule regular breaks
