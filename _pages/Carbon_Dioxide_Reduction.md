@@ -59,7 +59,7 @@ Fundamentals of the reaction
 <p align="justify"> The reduction of CO<sub>2</sub> is strongly surface dependent. The initial step in the reaction is the adsorption of CO<sub>2</sub> onto the electrode surface. Once this bond has been formed, then the electron transfers may occur. The overall mechanism is still uncertain, but a number of possible routes have been proposed,<sup>11, 22-24</sup> which are shown in Figure 1.<br>
 <br>
 
-<img align="center" src="/images/CO2/Mechanism.png"><br clear="all">
+<img align="center" src="/images/CO2/mechanism.png"><br clear="all">
 <i><b>Figure 1.</b> Mechanism for the formation of ethylene via a number of intermediates.</i>
 <br clear="all">
 </p>
@@ -103,6 +103,18 @@ In most cases it is hard to predict exactly how a certain microstructure would a
 
 </p>
 
+Tailoring the triphasic envrionment
+--------------------------------------
+
+<p align="justify> The reduction of CO<sub>2</sub> involves gasous CO<sub>2</sub> reacting with a liquid electrolyte at a solid catalyst surface: a so called "triphasic interface". The oxygen reduction reaction community have recently employed Polymers with Intrinsic Microporosity (PIMs) to this effect, trapping CO<sub>2</sub> close to the electrode surface to drive the full four-electron reduction.<sup>31</sup> (More details on four-electron oxygen reduction available <a href="/Research/Oxygen_Reduction">here</a>).<br>
+<br>
+We recently demonstrated that the same technique could be applied to CO<sub>2</sub> reduction, where the PIMs traps CO<sub>2</sub> within the triphasic interface, favouring the full twelve-electron reduction to ethylene. Any CO formed by two-electron CO<sub>2</sub> reduction is also trapped at the electrode surface, favouring further electron transfers to increase the ethylene yield.<sup>32</sup> <br>
+<br>
+
+<img align="center" src="/images_posts/2020-01-29/Graphical-Abstract.png" id="responsive-image"><br clear="all">
+<i><b>Figure 4.</b> Graphical absract for the impact of Polymers with Intrinsic Microporosity (PIMs) on CO<sub>2</sub> reduction. CO<sub>2</sub> is trapped in a triphasic interface at the electrode surface, favouring multiple electron transfers to give a greater ethylene yield.</i>
+<br>
+
 Modifying the reaction environment
 -----------------------------------
 
@@ -111,8 +123,8 @@ Modifying the reaction environment
 Other popular reactor designs are built on the same concept of maximising the mass transport rate of CO<sub>2</sub> and circumventing the solubility issue. One such design that is worth mentioning is the trickle bed reactor. Here, the catalyst is loaded on a particulate material in a reactor. CO<sub>2</sub> gas and liquid electrolyte are introduced into the top of the reactor and allowed to trickle own by gravity. The electrolyte forms a thin film over the catalyst material, and so the CO<sub>2</sub> only gas to diffuse a short distance before being reduced at the electrode.<br>
 <br>
 
-<img align="center" src="/images/CO2/Reactor Schematics.png" id="responsive-image"><br clear="all">
-<i><b>Figure 4.</b> Schematic diagrams for four different reactor architectures for CO<sub>2</sub> reduction to ethylene.</i>
+<img align="center" src="/images/CO2/reactor schematics.png" id="responsive-image"><br clear="all">
+<i><b>Figure 5.</b> Schematic diagrams for four different reactor architectures for CO<sub>2</sub> reduction to ethylene.</i>
 <br>
 
 <br>
@@ -174,3 +186,5 @@ References
 28.	T. A. Rebbecchi, and Y. Chen, *J. Mater. Res.*, **33**, 2-15 (**2017**).
 29.	B. J. Plowman, L. A. Jones, and S. K. Bhargava, *Chem. Commun.*, **51**, 4331-4346 (**2015**).
 30.	J. Christophe, T. Doneux, and C. Buess-Herman, *Electrocatalysis*, **3**, 139-146 (**2012**).
+31. F.Marken, E. Madrid, Y. Zhao, M. Carta and N. McKeown, *ChemElectroChem*, **6**, 1-12 (2019)
+32. S. C. Perry, S. M. Gateman, R. Malpass-Evans, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. Wang, C. Ponce de Leon, *Chemosphere*, **248**, 125993
