@@ -4,31 +4,13 @@ author_profile: true
 permalink: /CV/
 toc: true
 toc_label: Curriculum Vitae
-title: Curriculum Vitae
 ---
-
-<style>
-
-.grid-container {
-  display: grid;
-  grid-template-columns: 90% 10%;
-  background-color: #ffffff;
-  padding: 0px;
-}
-.grid-item {
-  background-color: #ffffff;
-  border: 0px solid #ffffff;
-  padding: 0px;
-  text-align: left;
-}
-
-</style>
 
 Introduction
 =================
 
 <p align="justify">
-I am an enthusiastic researcher, leading my team as part of an international collaboration tackling CO<sub>2</sub> emissions using electrochemistry. I take an active role in all aspects of the research environment, having written a number of grant applications and published fourteen papers in high impact journals. I have a great passion for teaching; I am a Fellow of AdvanceHE and I have given a number of classes for graduate courses and outreach lectures for young and international students. I am proud to mentor a number of research students and peers through research, learning and career goals. I enjoy taking an active role in the wider scientific community; I forged new collaborations with international Universities and am an active member of the Southampton Post-doc committee. I have spoken at eleven international conferences, and will be one of only three UK representatives at the inaugural Commonwealth Chemistry Congress in 2020. Outside of the lab, I am a keen guitarist, runner, rugby player and supporter of Harlequins RFU.
+I am an enthusiastic researcher, leading my team as part of an international collaboration tackling CO<sub>2</sub> emissions using electrochemistry. I take an active role in all aspects of the research environment, having written a number of grant applications and published fourteen papers in high impact journals. I have a great passion for teaching; I am a Fellow of AdvanceHE and I have given a number of classes for graduate courses and outreach lectures for young and international students. I am proud to mentor a number of research students and peers through research, learning and career goals. I enjoy taking an active role in the wider scientific community; I forged new collaborations with international Universities and am an active member of the Southampton University and Royal Society of Chemistry ECR Committees. I have spoken at eleven international conferences, and will be one of only three UK representatives at the inaugural Commonwealth Chemistry Congress in 2020. Outside of the lab, I am a keen guitarist, runner, rugby player and supporter of Harlequins RFU.
 </p>
 
 Employment History
@@ -38,8 +20,8 @@ Employment History
 -----------------------------------
 *University of Southampton, Southampton, UK.*
 * Researching CO&#8322; reduction
-* Leading a number of postgraduate research projects
-* Referee for the Journal of the Electrochemical Society, Journal of Electroanalytical Chemistry and Electrochimica Acta
+* Mentoring PhD, Masters and Undergraduate students across a range of research projects
+* Referee for multiple chemical and electrochemical journals
 
 2016 to 2018 - Research Fellow
 ---------------------------------
@@ -99,7 +81,7 @@ Publications
 
 *14 peer reviewed publications with 84 citations (2014-2019). For full details see [here](/Publications)*
 
-* Perry, S. C.\*; Gateman, S.; McKeown, N.; Wegener, M.; Nazarovs, P.; Mauzeroll, J.; Wang, L.; Ponce de León, C.; *Chemosphere*, **2019** *Accepted*
+* Perry, S. C.\*; Gateman, S.; McKeown, N.; Wegener, M.; Nazarovs, P.; Mauzeroll, J.; Wang, L.; Ponce de León, C.; *Chemosphere*, **2020** *248*, 125993
 * Perry, S. C.\*; Pangotra, D.; Vieira, L.; Csepei, L.-I.; Sieber, V.; Wang, L.; Ponce de Leon, C.; Walsh, F.; *Nat. Rev. Chem.*, **2019**, *3*, 442
 * Perry, S. C.; Gateman, S.; Stephens, L.; Lacasse, R.; Schulz, R.; Mauzeroll, J.; *J. Electrochem. Soc*, **2019**, *166*, C3186
 * Danis, A.; Gordon, J.; Potts, K.; Stephens, L.; Perry, S. C.; Mauzeroll, J.; *Anal. Chem.*, **2019**, *91*, 2312
@@ -172,6 +154,11 @@ Research and Leadership
 * Carried out individual and team experimental and simulated research
 * Sought out additional funding sources
 * Regularly published in high impact journals 
+
+**Outreach and Collegiality
+* Early Career Representative for the Royal Society of Chemistry Steering Group
+* Southampton University Early Career Researcher Committee Founder Member
+* Referee for multiple chemistry and electrochemsitry journals 
 
 
 Mentoring and Supervision
