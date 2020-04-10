@@ -186,5 +186,5 @@ References
 28.	T. A. Rebbecchi, and Y. Chen, *J. Mater. Res.*, **33**, 2-15 (**2017**).
 29.	B. J. Plowman, L. A. Jones, and S. K. Bhargava, *Chem. Commun.*, **51**, 4331-4346 (**2015**).
 30.	J. Christophe, T. Doneux, and C. Buess-Herman, *Electrocatalysis*, **3**, 139-146 (**2012**).
-31. F.Marken, E. Madrid, Y. Zhao, M. Carta and N. McKeown, *ChemElectroChem*, **6**, 1-12 (2019)
-32. S. C. Perry, S. M. Gateman, R. Malpass-Evans, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. Wang, C. Ponce de Leon, *Chemosphere*, **248**, 125993
+31. F.Marken, E. Madrid, Y. Zhao, M. Carta and N. McKeown, *ChemElectroChem*, **6**, 1-12 (**2019**)
+32. S. C. Perry, S. M. Gateman, R. Malpass-Evans, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. Wang, C. Ponce de Leon, *Chemosphere*, **248**, 125993 (**2020**)
