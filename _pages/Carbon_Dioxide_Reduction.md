@@ -135,9 +135,9 @@ TL;DR
 ======
 
 <ul>
-  <li><p align="justify">CO<sub>2</sub> reduction can be used to electrochemically synthesis ethylene</p></li>
+  <li><p align="justify">CO<sub>2</sub> reduction can be used to electrochemically synthesise ethylene</p></li>
   <li><p align="justify">The reaction is strongly dependent on the state of the surface of the electrode</p></li>
-  <li><p align="justify">Surface modifications through electrodeposition and microstructuring can tailor the reaction to produce a specific product</p></li>
+  <li><p align="justify">Surface modifications through electrodeposition, polymer coatings and microstructuring can tailor the reaction to produce a specific product</p></li>
 </ul>
 
 
@@ -149,6 +149,8 @@ Recommended Resources
   <li><p align="justify">D. Pletcher and F. Walsh, <i>Industrial Electrochemsitry</i>, Springer Netherlands. <a href="https://www.springer.com/gp/book/9780751401486" target="_blank" >Direct Link</a></p></li>
   <li><p align="justify">A. Bard and L. Faulkner, <i>Electrochemical Methods: Fundamentals and Applications</i>, John Wiley & Sons, NY. <a href="https://www.wiley.com/en-us/Electrochemical+Methods%3A+Fundamentals+and+Applications%2C+2nd+Edition-p-9780471043720" target="_blank" >Direct Link</a></p></li>
   <li><p align="justify">D. Pletcher, <i>A First Course in Electrode Processes</i>, Royal Society of Chemistry, Cambridge. <a href="https://pubs.rsc.org/en/content/ebook/978-1-84755-893-0" target="_blank" >Direct Link</a></p></li>
+  <li><p align="justify">S. C. Perry, S. M. Gateman, R. Malpass-Evans, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. Wang, C. Ponce de Leon, <i>Chemosphere</i>, <b>248</b>, 125993 (2020) <a href="https://doi.org/10.1016/j.chemosphere.2020.125993" target="_blank" >Direct Link</a></p></li>
+  
 </ul>
 
 
