@@ -22,7 +22,7 @@ One thing that did become apparent was how important it is to master Scientific 
 
 My poster detailed the latest work from my group, developing a reactor capable of converting CO<sub>2</sub> into ethylene oxide. The feel of the poster was entirely different compared to a specialist subject conference. Reaction mechanisms and detailed figures were replaced with schematics and flow diagrams to help walk the reader through the broader concepts. There's plenty of time to ask detailed questions at the sessions, so why bog down the poster? In my mind this highlights the key challenge in poster presentations for a non-specialist audience: the poster must be detailed enough to give understanding whilst not overwhelming the reader with technicalities. The final result can be seen below (click the image to see the full sized version if you're interested). 
 
-<a href="https://www.researchgate.net/publication/339000717_Green_Electrochemical_Synthesis_of_Ethylene_Oxide_from_CO2"><img src="/images_posts/2020-03-09/poster_A4.png" width="50%"/></a>
+<a href="https://www.researchgate.net/publication/339000717_Green_Electrochemical_Synthesis_of_Ethylene_Oxide_from_CO2"><img src="/images_posts/2020-03-09/Poster_A4.png" width="50%"/></a>
 <figcaption>My poster for the STEM for Britain Conference. Click on the image to see the full-sized version.</figcaption>
 
 My main take-away from this event is that more people are interested in the latest research than you might think, particularly those involved in policy, industry and other similar sectors. But, the level of interest you received is less dependent on the novelty of your work, and more dependent on how accessible you make it. As a good starting point, it's helpful to remember the following:
