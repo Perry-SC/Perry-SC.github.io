@@ -45,7 +45,6 @@ The oxygen reduction reaction (ORR) is a much discussed reaction in electrochemi
 	</div>
   </div>
 </div>
-<br>
 
 As well as the four electron reduction pathway, the ORR may instead proceed via a two electron pathway, going via a peroxide intermediate. The generated peroxide may be subsequently reduced to give water, or may diffuse into the bulk solution and dissociate. It is possible for the oxygen produced from the decomposition of peroxide to be subsequently reduced, provided the peroxide is not lost to the bulk solution before the decomposition occurs. This can be thought of as a cyclic process, with two electrons transferred to give peroxide, followed by a chemical step to regenerate the starting dioxygen. If the regenerated oxygen is completely reduced to water, then the overall reduction is then a complete four electron reduction process.
 
@@ -72,7 +71,6 @@ As well as the four electron reduction pathway, the ORR may instead proceed via 
 	</div>
   </div>
 </div>
-<br>
 
 During the ORR at an electrode surface, a combination of both the two and four electron pathways may be observed at any one time. This leads to the complex reaction scheme proposed by Wroblowa <i>et al.</i>, as is shown in Figure 1
 
@@ -178,7 +176,7 @@ Platinum electrodes show a preference for the complete four electron reduction. 
 
 This difference between gold and platinum has also been seen when reducing oxygen at platinum nanoparticles on a gold support, where it has been observed that the two electron reduction at the gold substrate is facilitated by the removal of the peroxide by further two electron reduction at the platinum nanoparticles.<sup>30</sup> At more negative potentials a second wave is seen, which corresponds to the two electron reduction of peroxide, although this requires a considerable overpotential due to the low energy of binding between peroxide and gold.<sup>37</sup> It was found that the rate of the second two electron reduction exhibits very little potential dependence, even at very negative potentials, suggesting that the issue of the large overpotential needed to give the reduction is avoided by the peroxide decomposing into more easily reducible species, such as OH<sub>ads</sub>.<sup>38</sup>
 
-Platinum metal is a popular electrode material thanks to its well defined electrochemistry, and due to its excellent catalytic activity for the ORR. One reason that it is suitable for this is that its metal-oxygen binding energy (Delta;<i>E</i><sub>O</sub>) is of an intermediate value. This means that it is not so weak that oxygen binding is disfavoured, but not so strong that binding is irreversible. This is important because the oxygen reduction reaction proceeds via adsorption steps. This results in a high catalytic activity for the reaction, which is demonstrated in the volcano plot shown in Figure 5.
+Platinum metal is a popular electrode material thanks to its well defined electrochemistry, and due to its excellent catalytic activity for the ORR. One reason that it is suitable for this is that its metal-oxygen binding energy (&Delta;<i>E</i><sub>O</sub>) is of an intermediate value. This means that it is not so weak that oxygen binding is disfavoured, but not so strong that binding is irreversible. This is important because the oxygen reduction reaction proceeds via adsorption steps. This results in a high catalytic activity for the reaction, which is demonstrated in the volcano plot shown in Figure 5.
 
 <img align="center" width="80%" src="/images/ORR/Fig 5.png">
 <figcaption>Figure 4: Volcano plot showing the catalytic activity for ORR for various metals against their oxygen binding energies (&Delta;<i>E</i><sub>O</sub>). Values for &Delta;<i>E</i><sub>O</sub> were taken from reference 39. </figcaption>
@@ -218,7 +216,7 @@ This work focuses on the phenomenon of the pre-adsorption of O<sub>2</sub> onto 
 After recording this pre-adsorbed O<sub>2</sub> at Pt electrodes, we were able to repeat these measurements with a number of different metals and metal alloys. This showed a sigmoidal relationship between the charge associated with the reduction of pre-adsorbed O<sub>2</sub> correlated and the binding energies for the from DFT calculations. This correlation allows for a simple electrochemical stripping experiment to be used to analyse materials for the ORR.<sup>55, 56</sup>
 
 <img align="center" width="80%" src="/images/ORR/Fig 7.png">
-<figcaption>Figure 6</figcaption>: Kinetic current for the ORR at 0.45 V vs. RHE (<i>i</i><sub>k</sub>) against the theoretical binding energy for O (&Delta;<i>G</i><sub>O</sub>) and the charge from the reduction of pre-adsorbed oxygen (<i>Q</i>). The sigmoidal relationship between <i>i</i><sub>k</sub> and <i>Q</i> allows <i>Q</i> to be used as a descriptor for ORR activity.<sup>56</sup> </figcaption>
+<figcaption>Figure 6: Kinetic current for the ORR at 0.45 V vs. RHE (<i>i</i><sub>k</sub>) against the theoretical binding energy for O (&Delta;<i>G</i><sub>O</sub>) and the charge from the reduction of pre-adsorbed oxygen (<i>Q</i>). The sigmoidal relationship between <i>i</i><sub>k</sub> and <i>Q</i> allows <i>Q</i> to be used as a descriptor for ORR activity.<sup>56</sup> </figcaption>
 
 Part 2 – Electrochemical synthesis of hydrogen peroxide
 =================================================
