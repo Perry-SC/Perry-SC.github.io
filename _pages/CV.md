@@ -158,7 +158,7 @@ Research and Leadership
 * Sought out additional funding sources
 * Regularly published in high impact journals 
 
-**Outreach and Collegiality
+**Outreach and Collegiality**
 * Early Career Representative for the Royal Society of Chemistry Steering Group
 * Southampton University Early Career Researcher Committee Founder Member
 * Referee for multiple chemistry and electrochemsitry journals 
