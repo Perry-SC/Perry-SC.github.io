@@ -1,0 +1,25 @@
+---
+layout: single
+title:  "New Publication: Developments on carbon dioxide reduction: their promise, achievements and challenges"
+date:   2020-05-11
+categories: 
+  - new publication
+  - CO2
+  - catalysts
+  - reactor
+  - review
+---
+
+Excited to announce the publication of my new review on the latest progress and achievements in the field of CO<sub>2</sub> reduction. 
+
+We summarise the greatest developments to date in this field, covering how catalyst material and structure selection greatly influences the end products. We also discuss the latest reactor designs, and how they are workin towards tackling the challenges associated with up-scaling to industrially relevant yields.
+
+![Perry et al. *Current Opinions in Electrochemistry*, **2020**, *DOI: 10.1016/j.coelec.2020.04.014*](/images/publications/2020CO2Review.png)
+
+Read the full article [here](https://doi.org/10.1016/j.coelec.2020.04.014), or access the preprint version [here](/Publications/2020_CO2_Review)
+
+Perry, S. C.;* Leung, P.-K.; Wang, L.; Ponce de León, C.; *Current Opinions in Electrochemistry*, **2020**, *DOI: 10.1016/j.coelec.2020.04.014*.
+
+### Abstract
+
+CO<sub>2</sub> reduction processes continue to be developed for electrosynthesis, energy storage applications and environmental remediation.  A number of promising materials have shown high activity and selectivity to target reduction products. However, the progress has been mainly at a small laboratory scale, and the technical challenges of large scale CO<sub>2</sub> reduction have not been considered adequately. This review covers recent advancements in catalyst materials and cell designs. The leading materials for CO<sub>2</sub> reduction to a number of useful products are presented with their corresponding cell and reactor designs. The latest efforts to progress to industrially relevant scales are discussed, along with the challenges that must be met for carbon dioxide reduction to be a viable route for mass scale production.  

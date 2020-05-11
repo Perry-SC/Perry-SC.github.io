@@ -54,13 +54,33 @@ Publications
 <div class="row">
   <div class="column left">
     <div class="vertical-centre">
+      <p><img align="left" width="250" src="/images/publications/2020CO2Review.png"></p>
+    </div>
+  </div>
+  <div class="column right">
+    <p>Developments on carbon dioxide reduction: their promise, achievements and challenges<br>
+S. C. Perry, P.-K. Leung, L. Wang, C. Ponce de León; <i>Current Opinions in Electrochemistry</i>, <b>2020</b>, <i>DOI:10.1016/j.coelec.2020.04.014</i><br>
+<a href="https://doi.org/10.1016/j.coelec.2020.04.014" target="_blank" class="MyButton">Direct Link</a> or <a href="/Publications/2020_CO2_Review" target="_blank" class="MyButton">Preprint Link</a> 
+
+<br clear="all" /></p>
+  </div>
+</div>
+
+</body>
+
+
+<body>
+
+<div class="row">
+  <div class="column left">
+    <div class="vertical-centre">
       <p><img align="left" width="250" src="/images_posts/2020-01-29/Graphical-Abstract.png"></p>
     </div>
   </div>
   <div class="column right">
     <p>Polymers with Intrinsic Microporosity (PIMs) for Targeted CO<sub>2</sub> Reduction to Ethylene<br>
 S. C. Perry*, S. Gateman, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. Wang, C. Ponce de León; <i>Chemosphere</i>, <b>2020</b>, <i>248</i>, 125993. <br>
-<a href="https://authors.elsevier.com/a/1aU3rAOM9t3yV" target="_blank" class="MyButton">Direct Link</a> 
+<a href="https://doi.org/10.1016/j.chemosphere.2020.125993" target="_blank" class="MyButton">Direct Link</a> or <a href="/Publications/2020_Chemosphere" target="_blank" class="MyButton">Preprint Link</a> 
 
 <br clear="all" /></p>
   </div>
@@ -83,7 +103,7 @@ S. C. Perry*, S. Gateman, N. McKeown, M. Wegener, P. Nazarovs, J. Mauzeroll, L. 
     <p>Electrochemical Synthesis of Hydrogen Peroxide from Water and Oxygen <br>
 S. C. Perry*, D. Pangotra, L. Vieira, L.-I. Csepei, V. Sieber, L. Wang, C. Ponce de Leon, F. Walsh;  <br>
 <i>Nature Reviews Chemistry</i>, <b>2019</b>, <i>3</i>, 442 - 458 <br>
-<a href="https://www.nature.com/articles/s41570-019-0110-6" target="_blank" class="MyButton">Direct Link</a> 
+<a href="https://www.nature.com/articles/s41570-019-0110-6" target="_blank" class="MyButton">Direct Link</a> or <a href="/Publications/2019_Nat_Rev_Chem" target="_blank" class="MyButton">Preprint Link</a> 
 
 <br clear="all" /></p>
   </div>
