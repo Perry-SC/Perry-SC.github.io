@@ -5,7 +5,8 @@ classes: wide
 toc: false
 permalink: /Publications/2019_Nat_Rev_Chem
 ---
-
+<p>
+</p>
 # Electrochemical synthesis of hydrogen peroxide from water and oxygen
 
 Perry, S.C.;* Pangotra, D.; Vieira, L.; Csepei, L.-I.; Sieber, V.; Wang, L.; Ponce de León, C.; Walsh, F.; Electrochemical Synthesis of Hydrogen Peroxide from Water and Oxygen; *Nat. Rev. Chem.*, **2019**, *3*, 442 - 458.

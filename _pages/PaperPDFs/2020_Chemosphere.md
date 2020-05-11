@@ -5,7 +5,8 @@ classes: wide
 toc: false
 permalink: /Publications/2020_Chemosphere
 ---
-
+<p>
+</p>
 # Polymers with intrinsic microporosity (PIMs) for targeted CO<sub>2</sub> reduction to ethylene
 
 Perry, S.C.;* Gateman, S.; McKeown, N.; Wegener, M.; Nazarovs, P.; Mauzeroll, J.; Wang, L.; Ponce de León, C.; *Chemosphere*, **2020**, *248*, 125993. 

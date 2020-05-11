@@ -15,7 +15,7 @@ We use a stepwise approach to add varying thicknesses of polymer layer to copper
 
 ![Perry et al. *Chemosphere*, **2020**, *248*, 125993](/images_posts/2020-01-29/Graphical-Abstract.png)
 
-Read more [here](https://authors.elsevier.com/a/1aU3rAOM9t3yV)
+Read more [here](https://authors.elsevier.com/a/1aU3rAOM9t3yV), or access the preprint version [here](/Publications/2020_Chemosphere).
 
 Perry, S.C.;* Gateman, S.; McKeown, N.; Wegener, M.; Nazarovs, P.; Mauzeroll, J.; Wang, L.; Ponce de León, C.; *Chemosphere*, **2020**, *248*, 125993.
 

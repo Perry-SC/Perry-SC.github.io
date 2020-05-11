@@ -16,7 +16,7 @@ We summarise the greatest developments to date in this field, covering catalysts
 
 ![Perry et al. *Nat. Rev. Chem.*, **2019**, *3*, 442 - 458](/images_posts/2019-06-19/Graphical-Abstract.png)
 
-Read more [here](https://doi.org/10.1038/s41570-019-0110-6)
+Read more [here](https://doi.org/10.1038/s41570-019-0110-6), or access the preprint version [here](/Publications/2019_Nat_Rev_Chem)
 
 Perry, S.C.;* Pangotra, D.; Vieira, L.; Csepei, L.-I.; Sieber, V.; Wang, L.; Ponce de León, C.; Walsh, F.; Electrochemical Synthesis of Hydrogen Peroxide from Water and Oxygen; *Nat. Rev. Chem.*, **2019**, *3*, 442 - 458.
 
