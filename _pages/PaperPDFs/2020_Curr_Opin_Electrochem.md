@@ -9,7 +9,7 @@ permalink: /Publications/2020_CO2_Review
 </p>
 # Developments on carbon dioxide reduction: their promise, achievements and challenges
 
-Perry, S. C.;* Leung, P.-K.; Wang, L.; Ponce de León, C.; *Current Opinions in Electrochemistry*, **2020**, *DOI: 10.1016/j.coelec.2020.04.014*. 
+Perry, S. C.;* Leung, P.-K.; Wang, L.; Ponce de León, C.; *Current Opinions in Electrochemistry*, **2020**, *20*, 88-98. 
 
 See the full article at [https://doi.org/10.1016/j.coelec.2020.04.014](https://doi.org/10.1016/j.coelec.2020.04.014).
 

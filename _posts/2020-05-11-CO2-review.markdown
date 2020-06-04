@@ -16,7 +16,7 @@ We summarise the greatest developments to date in this field, covering how catal
 
 ![Perry et al. *Current Opinions in Electrochemistry*, **2020**, *20*, 88-98](/images/publications/2020CO2Review.png)
 
-Read the full article [open access here](https://doi.org/10.1016/j.coelec.2020.04.014), or access the preprint version [here](/Publications/2020_CO2_Review)
+Read the full article [open access here](https://doi.org/10.1016/j.coelec.2020.04.014), or also hosted on this site [open access here](/Publications/2020_CO2_Review)
 
 Perry, S. C.;* Leung, P.-K.; Wang, L.; Ponce de León, C.; *Current Opinions in Electrochemistry*, **2020**, *20*, 88-98.
 
